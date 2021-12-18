@@ -8,5 +8,5 @@ int main()									//program to add full stop in the end if string
 	int l,i;
 	l=strlen(s);
 	strcat(s,t);
-	puts(s);
+	puts(s); ///dllfsdmgs
 }
